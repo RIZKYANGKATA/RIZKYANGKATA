@@ -4,5 +4,10 @@
   # Hi, 👋 I'm Rizky Angkata
 </p>
 
+<p align="center">
+  <b><big>Ini adalah teks yang besar dan bold di tengah.</big></b>
+</p>
+
+
 
 
