@@ -4,6 +4,10 @@
   <b><span style="font-size: 900%;">Hi 👋, I'm Rizky Angkata</span></b>
 </p>
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/build.yml)
+![Coverage](https://img.shields.io/coveralls/github/username/repo)
+
+
 
 
 
